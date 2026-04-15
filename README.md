@@ -65,4 +65,17 @@ Installation
    2. Run the app:
       python main.py
    3. Load your chat file
-   4. Explore dashboards, insights & reports   
+   4. Explore dashboards, insights & reports
+
+📷 Example Use Cases
+   a. Personal chat analysis
+   b. Relationship insights 💬
+   c. Team communication analytics 👨‍💻
+   d. Productivity & behavior tracking
+
+📜 License
+   MIT License
+
+ 👨‍💻 Author
+   Achintya Tripathi
+   Passionate developer building analytics tools, web apps & games 🚀
